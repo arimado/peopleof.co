@@ -274,7 +274,7 @@ body {
 
 .content {
   height: 100vh;
-  background-image: url("../images/neon-citadel.gif");  
+  background-image: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.2)), url("../images/neon-citadel.gif");
   background-position: center;
   background-size: cover;
   display: flex;
