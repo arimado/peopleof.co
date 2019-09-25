@@ -281,6 +281,8 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  padding: 25px;
+
 }
 
 .logo h1 {
@@ -290,4 +292,9 @@ body {
   text-align: center;
   font-family: 'Black Han Sans', sans-serif;
   letter-spacing: 2px;
+}
+
+.tagline {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
