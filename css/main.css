@@ -294,7 +294,20 @@ body {
   letter-spacing: 2px;
 }
 
+.logo a:hover {
+  cursor: pointer;
+}
+
 .tagline {
   font-family: 'Roboto', sans-serif;
   text-align: center;
+  margin-bottom: 20px;
+}
+
+.fa-instagram {
+  font-size: 40px;
+}
+
+.fa-instagram:hover {
+  cursor: pointer;
 }
