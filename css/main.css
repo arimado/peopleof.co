@@ -1,4 +1,3 @@
-  
 /*! HTML5 Boilerplate v7.2.0 | MIT License | https://html5boilerplate.com/ */
 
 /* main.css 2.0.0 | MIT License | https://github.com/h5bp/main.css#readme */
@@ -263,4 +262,30 @@ textarea {
   h3 {
     page-break-after: avoid;
   }
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background: black;
+}
+
+
+.content {
+  height: 100vh;
+  background-image: url("../images/neon-citadel.gif");  
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo h1 {
+  color: white;
+  padding: 0;
+  margin: 0;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Black Han Sans', sans-serif;
+  letter-spacing: 2px;
 }
